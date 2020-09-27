@@ -1,1 +1,5 @@
 Hi! This is file A
+
+This is a great file.
+
+It's a good day!
